@@ -38,19 +38,26 @@ An AI-powered smart farming system designed to revolutionize agriculture by prov
 
 ```text
 SmartFarmingInsights/
-├── frontend/         # React.js UI
-├── backend/          # Flask API + ML models
-├── datasets/         # Training data & preprocessing
+├── backend/                  # Flask API and ML logic
+│   └── ...                   # Backend files (app.py, model logic, etc.)
+├── src/                      # React frontend source files
+│   └── ...                   # Components, pages, styles, etc.
+├── stacking_pipeline.pkl     # Pre-trained ML model
+├── index.html                # Entry point for frontend (Vite-based)
+├── package.json              # Node dependencies
+├── package-lock.json         # Dependency lock file
+├── vite.config.ts            # Vite build configuration
+├── tailwind.config.js        # Tailwind CSS config
+├── tsconfig.json             # TypeScript config
+├── tsconfig.app.json
+├── tsconfig.node.json
+├── postcss.config.js         # PostCSS configuration
+├── eslint.config.js          # Linting rules
+├── .gitignore
 └── README.md
 
 
----
-## 👥 Contributors
 
-- 👨‍💻 [Nani Gunji](https://github.com/nanigunji) – Repo Owner, Full Stack Developer  
-- 👨‍🔬 [Bharath Gurumetkal](https://github.com/bharathgurumetkal) – ML & Backend  
-
----
 
 ## 📌 Future Enhancements
 
