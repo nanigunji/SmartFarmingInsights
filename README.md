@@ -36,8 +36,6 @@ An AI-powered smart farming system designed to revolutionize agriculture by prov
 
 ## 🗂️ Project Structure
 
-## 🗂️ Project Structure
-
 ```text
 SmartFarmingInsights/
 ├── frontend/         # React.js UI
