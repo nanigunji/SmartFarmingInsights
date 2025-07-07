@@ -58,7 +58,6 @@ SmartFarmingInsights/
 
 
 
-
 ## 📌 Future Enhancements
 
 - Add farmer-friendly mobile app interface 
@@ -66,7 +65,6 @@ SmartFarmingInsights/
 - Support multiple regional languages
 - Use Deep Learning for crop disease prediction 
 
----
 
 ## Setup Instructions
 
